@@ -1,4 +1,4 @@
-![Это я!](lOYUOq7pikU.jpg)
+![Это git!](2color-lightbg@2x.png)
 
 # Работа с Git 
 ## 1. Проверка наличия установленного Git
